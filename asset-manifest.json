@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/filmpire/static/css/main.6d4e09db.css",
-    "main.js": "/filmpire/static/js/main.f81c399b.js",
-    "static/js/364.00f0c481.chunk.js": "/filmpire/static/js/364.00f0c481.chunk.js",
-    "static/js/625.835dd694.chunk.js": "/filmpire/static/js/625.835dd694.chunk.js",
+    "main.js": "/filmpire/static/js/main.a8aed1d6.js",
+    "static/js/364.5522e3b3.chunk.js": "/filmpire/static/js/364.5522e3b3.chunk.js",
+    "static/js/920.05b438a6.chunk.js": "/filmpire/static/js/920.05b438a6.chunk.js",
     "index.html": "/filmpire/index.html",
     "main.6d4e09db.css.map": "/filmpire/static/css/main.6d4e09db.css.map",
-    "main.f81c399b.js.map": "/filmpire/static/js/main.f81c399b.js.map",
-    "364.00f0c481.chunk.js.map": "/filmpire/static/js/364.00f0c481.chunk.js.map",
-    "625.835dd694.chunk.js.map": "/filmpire/static/js/625.835dd694.chunk.js.map"
+    "main.a8aed1d6.js.map": "/filmpire/static/js/main.a8aed1d6.js.map",
+    "364.5522e3b3.chunk.js.map": "/filmpire/static/js/364.5522e3b3.chunk.js.map",
+    "920.05b438a6.chunk.js.map": "/filmpire/static/js/920.05b438a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d4e09db.css",
-    "static/js/main.f81c399b.js"
+    "static/js/main.a8aed1d6.js"
   ]
 }
